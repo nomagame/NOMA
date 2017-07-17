@@ -1,0 +1,11 @@
+/////////////////////////
+// Ignored for UE4      /
+/////////////////////////
+/Plugins/XDevicePlugin/Binaries/Win64/UE4Editor*.*
+/Plugins/XDevicePlugin/Intermediate
+
+/Intermediate
+/Saved
+/.vs
+/Binaries
+

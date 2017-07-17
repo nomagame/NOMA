@@ -1,0 +1,4 @@
+configurations.create("default")
+artifacts.add("default", file('3DCursorLibrary-debug.aar'))
+dependencies {
+}

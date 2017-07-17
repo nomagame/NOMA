@@ -1,0 +1,12 @@
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="whitegrey">#FFF2F2F2</color>
+    <string name="app_name">XDeviceApi</string>
+    <string name="ble_not_supported">Bluetooth Low Energy not supported</string>
+    <string name="cancel">Cancel</string>
+    <string name="no_ble_devices">No LE devices found.</string>
+    <string name="paired">paired</string>
+    <string name="scan">Scan</string>
+    <string name="scanning">Scanning for devices...</string>
+    <string name="select_device">Select a device</string>
+</resources>
